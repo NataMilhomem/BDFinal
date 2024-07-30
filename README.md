@@ -2,15 +2,13 @@
 Repositório do Trabalho Final de Banco de Dados - Tema: Gestão de Saúde (Doenças Cardíacas)
 # Projeto de Análise de Dados de Doenças Cardíacas
 
-Este projeto abrange a inspeção e limpeza de dados de um arquivo CSV sobre doenças cardíacas, a criação de tabelas no MySQL, a transferência de dados para o Google BigQuery e o armazenamento de informações adicionais no MongoDB.
-
+Este projeto abrange a inspeção e limpeza de dados de um arquivo CSV sobre doenças cardíacas, a criação de tabelas no MySQL e a transferência de dados para o Google BigQuery.
 ## Objetivos
 
 - **Inspeção e Limpeza dos Dados**: Carregar o arquivo CSV e inspecionar a estrutura dos dados para garantir que estejam prontos para análise.
 - **Criação das Tabelas no MySQL**: Criar uma tabela no MySQL para armazenar os dados do CSV.
 - **Importação dos Dados no MySQL**: Importar os dados do arquivo CSV para a tabela criada no MySQL.
 - **Transferência dos Dados para o BigQuery**: Exportar os dados do MySQL e importá-los no Google BigQuery.
-- **Armazenamento de Informações Adicionais no MongoDB**: Estruturar e inserir dados adicionais no MongoDB.
 
 ## Estrutura dos Dados
 
